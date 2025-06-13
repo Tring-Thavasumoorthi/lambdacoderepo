@@ -5,5 +5,5 @@ const app=express()
 
 
 app.listen(3000,()=>{
-    console.log("app is running on 3000 and also  lambda2")
+    console.log("app is running on 3000 lambda2")
 })
