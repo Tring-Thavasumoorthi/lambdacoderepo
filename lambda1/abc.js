@@ -1,3 +1,2 @@
-console.log("added some abc file")
-
-console.log("added some files")
+const a=10
+console.log(a)
