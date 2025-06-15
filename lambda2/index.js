@@ -4,6 +4,7 @@ const app=express()
 
 
 app.get("/health",(req,res)=>{
+    console.log("health are passed")
       res.json({message:"health are passed"})
 })
 
