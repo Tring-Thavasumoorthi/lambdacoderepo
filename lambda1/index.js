@@ -2,6 +2,7 @@ const express=require('express')
 
 const app=express()
 
+console.log(("this is the lambda1 folder "))
 
 
 app.listen(5000,()=>{
